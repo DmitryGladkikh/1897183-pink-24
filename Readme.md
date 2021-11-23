@@ -3,7 +3,7 @@
 * Студент: [Дмитрий Гладких](https://up.htmlacademy.ru/adaptive/24/user/1897183).
 * Наставник: [Анна Лисененкова](https://htmlacademy.ru/profile/ankhena).
 
----
+----
 
 **Обратите внимание, что папка с вашими исходными файлами — `source/`.**
 
