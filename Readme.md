@@ -1,7 +1,7 @@
 # Личный проект «Пинк» 
 
 * Студент: [Дмитрий Гладких](https://up.htmlacademy.ru/adaptive/24/user/1897183).
-* Наставник: [Анна Лисененкова] (https://htmlacademy.ru/profile/ankhena).
+* Наставник: [Анна Лисененкова](https://htmlacademy.ru/profile/ankhena).
 
 ---
 
